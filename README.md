@@ -11,3 +11,6 @@ blue branch was created
 
 yellow branch was created from blue branch
 
+red branch was created
+
+ok
