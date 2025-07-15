@@ -6,3 +6,5 @@ add new string
 add one more string
 
 add string from VsCode
+
+blue branch was created
