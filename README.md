@@ -1,2 +1,2 @@
 # QA
-Для обучения на курсе QA
+To study on the course QA
